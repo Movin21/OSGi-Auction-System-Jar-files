@@ -1,5 +1,5 @@
 # Auction Management System (Software Architecture Module_ Assignment 01 (SLIIT SE))
-##OSGi (Open Service Gateway Initiative) - Jar files with custom shell configuration
+## OSGi (Open Service Gateway Initiative) - Jar files with custom shell configuration
 
 **Instructions to run the system**
 
